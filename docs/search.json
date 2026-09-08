@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "About this site"
+    "text": "This is a resource"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "Anything",
     "section": "",
     "text": "We are making a website"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
