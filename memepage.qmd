@@ -4,3 +4,5 @@ format: html
 ---
 
 ![Meme #1](https://static01.nyt.com/images/2020/01/28/multimedia/28xp-memekid3/28cp-memekid3-superJumbo.jpg?quality=75&auto=webp)
+
+![Meme #2: Types of students in class](https://preview.redd.it/which-cat-were-you-in-school-v0-ybya4gx72vgc1.jpeg?auto=webp&s=b9f9031af6546b8e10ab0a69e48bcf3513dda481)
