@@ -3,12 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "collab-website"
+  title: "Anything"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resources.qmd
+        text: Resources and Things
+      - href: memepage.qmd
+        text: Memes
 
 format:
   html:
