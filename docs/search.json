@@ -7,6 +7,13 @@
     "text": "This is a resource"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Anything",
@@ -14,10 +21,10 @@
     "text": "We are making a website"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "memepage.html",
+    "href": "memepage.html",
+    "title": "memepage",
     "section": "",
-    "text": "About this site"
+    "text": "Meme #1"
   }
 ]
