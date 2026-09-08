@@ -9,7 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - resources.qmd
+      - href: resources.qmd
+        text: Resources and Things
+      - href: memepage.qmd
+        text: Memes
 
 format:
   html:
